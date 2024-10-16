@@ -1,0 +1,15 @@
+.container1{
+    background-image: url('../Mask-group.jpg');
+    color: #ffff
+    ;
+    padding: 1rem 2rem 2rem 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 10px 10px 10px 10px;
+}
+.title{
+    font-weight: bolder;
+}
+.player{
+    margin-top: 2rem;
+}
